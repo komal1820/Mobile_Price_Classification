@@ -41,6 +41,12 @@ The project employs various machine learning techniques, including:
 <img width="801" alt="Screenshot 2024-04-03 at 6 01 36 PM" src="https://github.com/komal1820/Mobile_Price_Classification/assets/69956556/c8673d1c-7735-4723-8674-ebacfe14831b">
 <img width="760" alt="Screenshot 2024-04-03 at 6 02 04 PM" src="https://github.com/komal1820/Mobile_Price_Classification/assets/69956556/433ffabc-3a82-44f6-b9d8-484158f39efd">
 
+# Technologies Used
+
+**RStudio -** A powerful open-source integrated development environment (IDE) for R programming, used for data manipulation, statistical analysis, and visualization.
+
+**RapidMiner -** An enterprise-grade data science platform used for data preparation, machine learning model building, and model evaluation.
+
 # Results
 
 The analysis revealed significant relationships between phone features and pricing. Notably, features like RAM, battery power, and screen resolution were identified as key determinants of price range.
